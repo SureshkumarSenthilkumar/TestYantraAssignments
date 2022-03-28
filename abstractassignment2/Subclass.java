@@ -11,6 +11,5 @@ public class Subclass extends Abstractclass{
 		subclass.a_method();
 		subclass.b_method();
 		
-	
-
+	}
 }
